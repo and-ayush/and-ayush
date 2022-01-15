@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Anand
 - 👀 I’m interested in Data Analytics, Data Science and Visualizations tools like Power BI.
-- 🌱 I’m currently learning Data Analytics and SQL.
+- 🌱 I’m currently learning Data Analytics, Power BI and SQL.
 - 📫 You can reach me via email - anandayush0409@gmail.com
 
 <!---
