@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush Anand
-- 👀 I’m interested in Data Analytics, Data Science and Visualizations tools like Power BI.
+- 👀 I’m interested in Data Analytics, Data Science and new age technologies as GenAI, LLM, RAG, agentic AI, MCP etc.
 - 🌱 I’m currently working in HDFC Bank solving for collection strategies in Retail Asset and Cards Porfolio via Data Science, Analytics and GenAI
 - 📫 You can reach me via email - anandayush0409@gmail.com
 
